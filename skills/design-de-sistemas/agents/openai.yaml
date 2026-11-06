@@ -1,0 +1,6 @@
+interface:
+  display_name: "Design de sistemas"
+  short_description: "UX/UI por etapas, com arquitetura, estudo e validação"
+  default_prompt: "Use $design-de-sistemas para melhorar esta interface por etapas: explique o resultado, recupere a arquitetura e as decisões, divida em fluxos, desenvolva a parte atual e valide o percurso e o conjunto."
+policy:
+  allow_implicit_invocation: true

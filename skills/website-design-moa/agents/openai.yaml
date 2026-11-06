@@ -1,0 +1,7 @@
+interface:
+  display_name: "Website Design MOA"
+  short_description: "Especialistas em UX, visual e conversão"
+  default_prompt: "Use $website-design-moa para criar ou melhorar o design deste site com uma equipe de especialistas."
+
+policy:
+  allow_implicit_invocation: true
